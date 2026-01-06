@@ -73,7 +73,7 @@ Models were evaluated using:
 
 ## Project Deliverables
 - [Final Report](docs/Team13_Report.docx)
-- [Presentation Slides](docs/Team13.pptx)
+- [Presentation Slides](docs/Team13.pdf)
 
 ## Future Work
 - Incorporate pricing, discounts, and review sentiment
