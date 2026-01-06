@@ -71,9 +71,9 @@ Models were evaluated using:
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
-## Project Status
-- Code: Complete
-- Report & Presentation: Complete
+## Project Deliverables
+- [Final Report](docs/Team13_Report.docx)
+- [Presentation Slides](docs/Team13.pptx)
 
 ## Future Work
 - Incorporate pricing, discounts, and review sentiment
